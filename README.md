@@ -9,8 +9,6 @@
 
 It features a responsive, dynamic layout with a multi-page architecture, providing a modern and visually appealing interface for a mock online shopping platform. 
 
-🔗 **Live Demo:** [Insert GitHub Pages Link Here]
-
 ---
 
 ## 🎯 Objectives & Learning Outcomes
@@ -41,12 +39,3 @@ It features a responsive, dynamic layout with a multi-page architecture, providi
 - **Version Control:** Git & GitHub
 
 ---
-
-## 🚀 Getting Started
-
-Since this is a frontend-only project utilizing standard web technologies, running it locally is incredibly straightforward.
-
-1. **Clone the repository:**
-   
-```bash
-   git clone [https://github.com/your-username/e-mart.git](https://github.com/your-username/e-mart.git)
